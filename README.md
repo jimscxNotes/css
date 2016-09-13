@@ -4,3 +4,4 @@
 #### 2.[文本溢出后省略号](https://github.com/jimscxNotes/css/issues/2)
 #### 3.[css布局](https://github.com/jimscxNotes/css/issues/3)
 #### 4.[滚动条](https://github.com/jimscxNotes/css/issues/4)
+#### 5.[css中的float](https://github.com/jimscxNotes/css/issues/5)
