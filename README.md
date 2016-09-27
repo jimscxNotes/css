@@ -5,3 +5,4 @@
 #### 3.[css布局](https://github.com/jimscxNotes/css/issues/3)
 #### 4.[滚动条](https://github.com/jimscxNotes/css/issues/4)
 #### 5.[css中的float](https://github.com/jimscxNotes/css/issues/5)
+#### 6.[去除mac chrome下select的默认圆角](https://github.com/jimscxNotes/css/issues/6)
